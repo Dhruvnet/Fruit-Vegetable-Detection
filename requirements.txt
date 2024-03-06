@@ -1,0 +1,8 @@
+requests==2.29.0
+beautifulsoup4
+streamlit
+numpy
+Pillow
+flask
+keras~=2.6.0
+tensorflow~=2.6.0
