@@ -1,10 +1,4 @@
-# Fruits🍍-Vegetable🍅 Classification
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
-
-## [Watch Tutorial for this project](https://youtu.be/cF6rMXZcuCs)
-<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/yt_thumb.jpg">
+# Fruits-Vegetable Classification
 
 ## Usage:-
 
@@ -26,13 +20,6 @@
 
 - For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
 
-## Screenshots
-
-<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/sc1.PNG">
-<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/sc2.PNG">
-
-
-## Just follow☝️ me and Star⭐ my repository 
-
-# [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
+## Screenshots:-
+![Screenshot 2024-03-07 005218](https://github.com/Dhruvnet/Fruit-Vegetable-Detection/assets/123584784/d6dd8fe3-0042-4ae6-9a69-28fc90ae63df)
+![Screenshot 2024-03-07 005158](https://github.com/Dhruvnet/Fruit-Vegetable-Detection/assets/123584784/0ddc95a2-8da8-4dda-a05a-a5c93ef78e76)
